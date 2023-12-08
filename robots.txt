@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://huaii.top/sitemap.xml
