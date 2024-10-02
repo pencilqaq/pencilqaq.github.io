@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navs on 槐</title>
+    <link>http://localhost:1313/nav/</link>
+    <description>Recent content in Navs on 槐</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/nav/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>导航</title>
+      <link>http://localhost:1313/nav/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nav/nav/</guid>
+      <description>🌞 分类 ONE mineitem one mineitem two mineitem three 🔨 分类 TWO toolitem three 📑 分类 THREE docitem one docitem two docitem three 🔖 标签 BOOKMARKs bookmark item one https://bookmark-item-one.com bookmark item two https://bookmark-item-two.com bookmark item three https://bookmark-item-three.com</description>
+    </item>
+  </channel>
+</rss>
